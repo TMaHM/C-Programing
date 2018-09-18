@@ -1,0 +1,5 @@
+﻿  DynamicArray.c
+g:\c语言\c programing\c-programing\线性表学习\线性表学习\dynamicarray.c(68): warning C4098: “RemoveByValue_Array”:“void”函数返回值
+  动态数组.c
+  正在生成代码...
+  线性表学习.vcxproj -> G:\C语言\C Programing\C-Programing\线性表学习\Debug\线性表学习.exe
